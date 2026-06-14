@@ -1,4 +1,4 @@
-# 📡 Antenna Theory Studio
+# 📡 Antenna Theory Studio (with the help of Claude opus 4.8)
 
 Διαδραστικό εκπαιδευτικό GUI (PyQt5 + matplotlib) που **οπτικοποιεί όλη τη θεωρία**
 του βοηθήματος *«Θεωρία Κεραιών — Πλήρες Βοήθημα»* (βασισμένο στο **Balanis**,
