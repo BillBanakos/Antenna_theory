@@ -1,0 +1,8 @@
+PyQt5>=5.15
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6
+
+# Προαιρετικά (ανάπτυξη/πακετάρισμα):
+# pytest>=7.0
+# pyinstaller>=6.0
